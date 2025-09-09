@@ -1,19 +1,10 @@
 # Hi there, I'm Silas Inegbe! 👋
 
-I'm a passionate web developer with expertise in React.js, Next.js, JavaScript, Tailwind CSS, Styled Components, Git, and GitHub. I love solving problems and building engaging web applications.
-
-## 💼 Professional Experience
-
-- **[Klipto Inc.](#)** - *FrontEnd Engineer*
-
-## 🚀 Key Projects
-
-- **[EntertainMe](https://github.com/silas-inegbe/suggestionApp.git)** - A platform that brings you entertainment based on your preferences.
-- **[Oravents](oravent.vercel.app)** - An Event planner's portfolio.
-- **[DenCare](decare-39fb5.web.app)** - A dentist website where you can book appointments.
+I'm a passionate web developer with expertise in Typescript, React.js, Next.js, JavaScript, Tailwind CSS, Styled Components, Git, and GitHub. I love solving problems and building engaging web applications.
 
 ## 🛠️ Skills
 
+- TypeScript
 - React.js
 - Next.js
 - JavaScript
