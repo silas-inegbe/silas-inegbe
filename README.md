@@ -1,18 +1,14 @@
 # Hi there, I'm Silas Inegbe! 👋
 
-I'm a passionate web developer with expertise in Typescript, React.js, Next.js, JavaScript, Tailwind CSS, Styled Components, Git, and GitHub. I love solving problems and building engaging web applications.
+Software Engineer Proficient in the JavaScript Ecosystem.
+Full-Stack Mobile App & Web Dev
 
 ## 🛠️ Skills
 
 - TypeScript
-- React.js
-- Next.js
-- JavaScript
-- Tailwind CSS
-- Styled Components
-- Git and GitHub
-- Shell scripting
-- Problem Solving
+- Next.js / React.js
+- React Native
+- Expo
 
 ## 📫 Let's Connect
 
@@ -22,16 +18,3 @@ I'm a passionate web developer with expertise in Typescript, React.js, Next.js, 
 ## 🤝 Open for Collaboration
 
 I'm open to collaborating on interesting projects. Feel free to reach out if you have an exciting opportunity or just want to connect.
-
-## 📝 Blog
-
-I occasionally write about web development and programming on my blog. Check it out at [silasinegbe.medium.com](https://silasinegbe.medium.com).
-
-## 📚 Learning
-
-I'm always learning and staying up-to-date with the latest technologies and best practices in web development.
-
-
-
-
-
